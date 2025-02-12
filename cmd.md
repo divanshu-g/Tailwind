@@ -1,1 +1,0 @@
-npx tailwind init [anyname] --full
